@@ -1,0 +1,23 @@
+{
+  "name": "com.kirbyrawr.nett",
+  "version": "0.10.0",
+  "displayName": "Nett",
+  "description": "This is a package that contains the 'Nett' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'Nett'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "nett",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/Nett.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
